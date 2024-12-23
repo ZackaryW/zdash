@@ -5,6 +5,12 @@
 pip install git+https://github.com/ZackaryW/zdash.git
 ```
 
+## Features
+- [x] support eagle and obsidian vaults
+- [x] support gui interface to quick launch
+- [ ] standardize the config and mod interface 
+- [ ] support extension of mods 
+
 ## Config
 configs are stored in `~/.zdash/config.json`
 
